@@ -1,0 +1,21 @@
+<html lang="en">
+<head>
+
+    <title>Buy@Here</title>
+    <link rel="stylesheet" href="cart.css">
+</head>
+<body>
+    <div class="cart">
+         
+        <h2 class="head">Sports Era</h2>
+        <img class="logo" src="img1.png" alt="">
+
+        <button class="add">+</button>
+        <input type="text" name="Quantity" id="Quantity" placeholder="Enter Quantity">
+        <button class="subs">-</button>
+
+        <button class="b" type="submit">Add To Cart</button>
+
+    </div>
+</body>
+</html>
